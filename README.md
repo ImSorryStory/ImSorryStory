@@ -2,7 +2,7 @@
 
 #### A Full-Stack Developer by day ☼ and a Game Design by night ☾
 
-Full-Stack Developer at [Lerto]([https://lerto.ru/]);<br>
+Full-Stack Developer at [Lerto]([https://lerto.ru/])<br>
 
 - ⚙️ I use daily: `.py`, `.js`, `.html`, `.c`, `.css`, `.svg`, `.ts`, `.ai`, `.lua`, `.vue`, `Dockerfile`
 - ✏️ My stack of frameworks and libraries:
