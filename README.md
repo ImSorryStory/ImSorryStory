@@ -2,7 +2,7 @@
    
 #### A Full-Stack Developer by day ☼ and a Game Design by night ☾   
    
-Full-Stack Developer at [Lerto]([https://lerto.ru/])<br>   
+Full-Stack Developer at RMIAC  
 
 ---
    
